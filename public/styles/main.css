@@ -1,0 +1,4 @@
+h1{
+    background:url('/images/logo.svg') left / auto 100% no-repeat,
+               url('/images/logo.svg') right / auto 100% no-repeat
+}
